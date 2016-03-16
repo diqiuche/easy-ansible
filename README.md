@@ -2,10 +2,9 @@
 Automatical deployment platform based on ansible.
 
 1.1、定位
-
 easy-ansible为云环境下较大规模场景的业务自动化部署提供通用解决方案，并内置XX云自动化部署、更新、自验证等服务，助力敏捷开发、敏捷测试、敏捷运维！
-1.2、特性
 
+1.2、特性
 easy-ansible妥善考虑基础能力完备、调度横向扩展、Restful API调用、自动部署服务化等因素。其特性如下：
 
     支持简单命令、Script脚本、基于Playbook复杂任务编排等各类简单自动化部署任务。
