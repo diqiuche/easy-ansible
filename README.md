@@ -15,3 +15,23 @@ easy-ansible妥善考虑基础能力完备、调度横向扩展、Restful API调
     支持大规模场景，架构可横向扩展。
     支持生产环境可靠性需求，内置失败自动重试机制。
     基于OpenSSH加密协议通信，满足生产环境安全需求。
+
+### 1.3 截图:
+Home:    
+![image](screenshots/001.home.png)     
+    
+Job Center:    
+![image](screenshots/002.job.png)     
+
+Deploy:    
+![image](screenshots/003.deploy.png)     
+
+Deploy Input:    
+![image](screenshots/004.deploy-input.png)     
+
+Deploy Info:    
+![image](screenshots/005.deploy-info.png)     
+
+Help:    
+![image](screenshots/006.help.png)     
+
