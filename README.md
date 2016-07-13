@@ -32,6 +32,9 @@ Deploy Input:
 Deploy Info:    
 ![image](screenshots/005.deploy-info.png)     
 
+Deploy-Worker Monitor:
+![image](screenshots/007.deploy-monitor.png)
+
 Help:    
 ![image](screenshots/006.help.png)     
 
