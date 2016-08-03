@@ -17,24 +17,24 @@ easy-ansible妥善考虑基础能力完备、调度横向扩展、Restful API调
 - 基于OpenSSH加密协议通信，满足生产环境安全需求。
 
 ### 1.3 截图:
-Home:    
+1. Home:    
 ![image](screenshots/001.home.png)     
     
-Job Center:    
+2. Job Center:    
 ![image](screenshots/002.job.png)     
 
-Deploy:    
+3. Deploy:    
 ![image](screenshots/003.deploy.png)     
 
-Deploy Input:    
+4. Deploy Input:    
 ![image](screenshots/004.deploy-input.png)     
 
-Deploy Info:    
+5. Deploy Info:    
 ![image](screenshots/005.deploy-info.png)     
 
-Deploy-Worker Monitor:
+6. Deploy-Worker Monitor:
 ![image](screenshots/007.deploy-monitor.png)
 
-Help:    
+7. Help:    
 ![image](screenshots/006.help.png)     
 
