@@ -1,5 +1,5 @@
 # easy-ansible
-Automatical deployment platform based on ansible.
+基于Ansible的自动部署平台-Automatical Deployment Platform Based on Ansible。
 
 ### 1.1、定位:    
 easy-ansible为云环境下较大规模场景的业务自动化部署提供通用解决方案，并内置XX云自动化部署、更新、自验证等服务，助力敏捷开发、敏捷测试、敏捷运维！    
